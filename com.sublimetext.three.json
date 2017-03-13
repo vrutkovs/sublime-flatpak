@@ -3,7 +3,7 @@
     "runtime": "org.gnome.Platform",
     "runtime-version": "master",
     "sdk": "org.gnome.Sdk",
-    "branch": "1.0",
+    "branch": "stable",
     "command": "sublime",
     "separate-locales": false,
     "finish-args": [
