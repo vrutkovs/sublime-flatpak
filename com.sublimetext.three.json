@@ -5,6 +5,7 @@
     "sdk": "org.gnome.Sdk",
     "branch": "stable",
     "command": "sublime",
+    "rename-desktop": "sublime_text.desktop",
     "separate-locales": false,
     "finish-args": [
         /* X11 + XShm access */
