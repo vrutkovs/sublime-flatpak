@@ -1,3 +1,3 @@
 #!/bin/sh
 
-exec /app/extra/bin/subl
+exec /app/extra/bin/subl $@
